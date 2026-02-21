@@ -1,6 +1,6 @@
 ## [ 仅 API 调用方式不一致 ]torch.autograd.graph.saved_tensors_hooks
 
-### [torch.autograd.graph.saved\_tensors\_hooks](https://docs.pytorch.org/docs/stable/autograd.html#torch.autograd.graph.saved_tensors_hooks)
+### [torch.autograd.graph.saved\_tensors\_hooks](https://pytorch.org/docs/stable/autograd.html#torch.autograd.graph.saved_tensors_hooks)
 
 ```python
 torch.autograd.graph.saved_tensors_hooks(pack_hook, unpack_hook)
